@@ -8,5 +8,6 @@
     <body>
         <h1>Pagina principal</h1>
         <%@include file="menu.jsp" %>
+		<p>Aporte del usuario anónimo</p>
     </body>
 </html>
